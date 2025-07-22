@@ -6,5 +6,5 @@ This repo contains daily practice questions for coding interviews.
 - GFG
 - HackerRank
 
-📅 Starting from 8th July  
+
 🎯 Goal: 100 problems by September
