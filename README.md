@@ -7,4 +7,4 @@ This repo contains daily practice questions for coding interviews.
 - HackerRank
 
 
-🎯 Goal: 100 problems by September
+
